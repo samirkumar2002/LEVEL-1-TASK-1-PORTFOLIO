@@ -34,4 +34,12 @@ In summary, this Personal Portfolio Web Page is a polished, functional, and eleg
 
 # OUTPUT OF THE TASK
 
+<img width="1917" height="943" alt="Image" src="https://github.com/user-attachments/assets/4362f8d4-9198-4085-9ad7-0b5609977aa2" />
+
+<img width="1913" height="940" alt="Image" src="https://github.com/user-attachments/assets/ec45cb89-6158-41a2-8248-d3da3b6ff808" />
+
+<img width="1917" height="573" alt="Image" src="https://github.com/user-attachments/assets/d5fba271-0dae-4e0f-9a05-78fb0318ec7c" />
+
+<img width="1912" height="942" alt="Image" src="https://github.com/user-attachments/assets/aaab0503-881b-4afa-92ff-f146870467d0" />
+
 
